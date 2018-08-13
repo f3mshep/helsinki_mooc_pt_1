@@ -1,0 +1,6 @@
+
+BUILD FAILED
+/home/alexandra/IdeaProjects/TMCProjects/mooc-2013-OOProgrammingWithJava-PART1/week2-037.PrintingOutText/nbproject/build-impl.xml:883: The following error occurred while executing this line:
+/home/alexandra/IdeaProjects/TMCProjects/mooc-2013-OOProgrammingWithJava-PART1/week2-037.PrintingOutText/nbproject/build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 0 seconds
